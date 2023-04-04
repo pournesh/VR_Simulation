@@ -6,6 +6,7 @@ TagManager:
   tags:
   - red
   - green
+  - Lock
   layers:
   - Default
   - TransparentFX
